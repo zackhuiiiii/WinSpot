@@ -37,7 +37,7 @@
 
 <div align="center">
     <img src="YOUR_IMAGE_PATH_OR_URL" alt="WinSpot Example" width="600">
-    <p style="text-align: center; font-style: italic;">An example screenshot from WinSpot, highlighting GUI elements.</p>
+    <p style="text-align: center; font-style: italic;">WinSpot flow and example, highlighting GUI elements.</p>
 </div>
 
 ---
