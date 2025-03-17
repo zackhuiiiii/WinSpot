@@ -35,10 +35,9 @@
     </b>
 </p>
 
-<div align="center">
-    <img src=""asset/example.png"" alt="WinSpot Example" width="600">
-    <p style="text-align: center; font-style: italic;">WinSpot flow and example, highlighting GUI elements.</p>
-</div>
+
+
+![](.asset/example.png)
 
 ---
 
