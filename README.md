@@ -21,6 +21,7 @@
 ---
 
 <!-- Links (Paper, Project Page, Dataset) -->
+
 <p align="center" style="font-size: 1.2em;">
     <b>
         <a href="https://arxiv.org/abs/2503.04730" target="_blank" style="text-decoration: none;">[Paper]</a>
@@ -36,8 +37,8 @@
 </p>
 
 
+![](./asset/example.png)
 
-![](.asset/example.png)
 
 ---
 
