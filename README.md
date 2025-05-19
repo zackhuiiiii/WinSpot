@@ -55,6 +55,7 @@
 ---
 
 ## News
+- Paper accepted to ACL 2025 Main
 - We just submitted the paper and received some encouraging feedback. We're currently enhancing the dataset based on reviewer suggestions and expect to release it within the next 3 months.
 - WinSpot will be released soon, stay tuned.
 
